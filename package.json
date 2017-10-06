@@ -1,7 +1,7 @@
 {
   "name": "react-native-cryptr",
   "version": "2.0.0",
-  "description": "a simple encrypt and decrypt module for node.js",
+  "description": "a simple encrypt and decrypt module for react native",
   "main": "index.js",
   "directories": {
     "test": "tests"
