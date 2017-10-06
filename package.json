@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/MauriceButler/cryptr.git"
+    "url": "git://github.com/realtsiry/react-native-cryptr.git"
   },
   "keywords": [
     "cryptr",
@@ -29,9 +29,9 @@
   "author": "Maurice Butler <maurice.butler@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MauriceButler/cryptr/issues"
+    "url": "https://github.com/realtsiry/react-native-cryptr/issues"
   },
-  "homepage": "https://github.com/MauriceButler/cryptr",
+  "homepage": "https://github.com/realtsiry/react-native-cryptr",
   "dependencies": {
       "react-native-crypto": "2.1.1"
   },
