@@ -26,7 +26,7 @@
     "aes256",
     "hashr"
   ],
-  "author": "Maurice Butler <maurice.butler@gmail.com>",
+  "author": "Tsiry Sandratraina <tsiryid@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/realtsiry/react-native-cryptr/issues"
