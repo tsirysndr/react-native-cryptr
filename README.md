@@ -19,12 +19,12 @@ Passwords should be a one way hash. Use [react-native-bcrypt](https://www.npmjs.
 
 ## Install
 
-	npm install cryptr
+	npm install react-native-cryptr
 
 ## Usage
 
 ``` javascript
-var Cryptr = require('cryptr'),
+var Cryptr = require('react-native-cryptr'),
     cryptr = new Cryptr('myTotalySecretKey');
 
 
